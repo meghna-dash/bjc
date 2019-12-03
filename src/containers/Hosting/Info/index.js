@@ -35,7 +35,7 @@ const InfoSection = ({
             <Fade bottom cascade>
               <Heading
                 {...title}
-                content="Increase your website growth with high performance servers"
+                content="Get started with BJC for your students"
               />
               <Text
                 {...description}

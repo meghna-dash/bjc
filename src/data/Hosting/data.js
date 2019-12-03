@@ -140,23 +140,8 @@ export const MENU_ITEMS = [
     offset: '70',
   },
   {
-    label: 'Service',
-    path: '#service_section',
-    offset: '70',
-  },
-  {
-    label: 'Testimonial',
-    path: '#testimonial_section',
-    offset: '70',
-  },
-  {
-    label: 'FAQ',
-    path: '#faq_section',
-    offset: '70',
-  },
-  {
-    label: 'Contact',
-    path: '#contact_section',
+    label: 'Get Started',
+    path: '#info_section',
     offset: '70',
   },
 ];

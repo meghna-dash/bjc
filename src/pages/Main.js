@@ -9,7 +9,7 @@ import {
 import { ResetCSS } from '../assets/css/style';
 import Navbar from '../containers/Hosting/Navbar';
 import BigIdeasSection from '../containers/Hosting/BigIdeasSection';
-import InfoSection from '../containers/Hosting/Info';
+import GetStarted from '../containers/Hosting/GetStarted';
 import BannerSection from '../containers/Hosting/Banner';
 import ContactSection from '../containers/Hosting/Contact';
 import Footer from '../containers/Hosting/Footer';
@@ -42,6 +42,7 @@ export default () => {
 
             <BannerSection />
             <BigIdeasSection />
+            <GetStarted />
             <Footer />
           </ContentWrapper>
         </ParallaxProvider>
