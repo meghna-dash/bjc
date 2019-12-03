@@ -30,10 +30,10 @@ const FeatureSection = ({
       <Container>
         <Box {...secTitleWrapper}>
           <Fade bottom cascade>
-            <Text {...secText} content="OUR SERVICES" />
+            <Text {...secText} content="BIG IDEAS" />
             <Heading
               {...secHeading}
-              content="Our Featured Service that We Provide"
+              content="The 7 Big Ideas in Computing"
             />
           </Fade>
         </Box>

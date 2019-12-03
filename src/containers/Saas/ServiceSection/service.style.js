@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const ServiceSectionWrapper = styled.section`
+const BigIdeasSectionWrapper = styled.section`
   padding: 80px 0 40px;
   @media (max-width: 990px) {
     padding: 60px 0 0 0;
@@ -92,4 +92,4 @@ const ServiceSectionWrapper = styled.section`
   }
 `;
 
-export default ServiceSectionWrapper;
+export default BigIdeasSectionWrapper;

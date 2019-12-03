@@ -6,9 +6,9 @@ import Heading from 'reusecore/src/elements/Heading';
 import FeatureBlock from 'common/src/components/FeatureBlock';
 import { Service } from 'common/src/data/Saas';
 import Container from 'common/src/components/UI/Container';
-import ServiceSectionWrapper from './service.style';
+import BigIdeasSectionWrapper from './service.style';
 
-const ServiceSection = ({
+const BigIdeasSection = ({
   row,
   col,
   sectionHeader,
@@ -21,7 +21,7 @@ const ServiceSection = ({
   blockWrapperStyle,
 }) => {
   return (
-    <ServiceSectionWrapper id="feature_section">
+    <BigIdeasSectionWrapper id="feature_section">
       <Container>
         <Box {...sectionHeader}>
           <Text content="OUR FEATURES" {...sectionSubTitle} />
@@ -45,12 +45,12 @@ const ServiceSection = ({
           ))}
         </Box>
       </Container>
-    </ServiceSectionWrapper>
+    </BigIdeasSectionWrapper>
   );
 };
 
-// ServiceSection style props
-ServiceSection.propTypes = {
+// BigIdeasSection style props
+BigIdeasSection.propTypes = {
   sectionHeader: PropTypes.object,
   row: PropTypes.object,
   col: PropTypes.object,
@@ -60,8 +60,8 @@ ServiceSection.propTypes = {
   featureDescription: PropTypes.object,
 };
 
-// ServiceSection default style
-ServiceSection.defaultProps = {
+// BigIdeasSection default style
+BigIdeasSection.defaultProps = {
   // section header default style
   sectionHeader: {
     mb: ['50px', '50px', '50px', '80px'],
@@ -136,4 +136,4 @@ ServiceSection.defaultProps = {
   },
 };
 
-export default ServiceSection;
+export default BigIdeasSection;

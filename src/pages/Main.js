@@ -8,7 +8,7 @@ import {
 } from '../containers/Hosting/hosting.style';
 import { ResetCSS } from '../assets/css/style';
 import Navbar from '../containers/Hosting/Navbar';
-import FeatureSection from '../containers/Hosting/Features';
+import BigIdeasSection from '../containers/Hosting/BigIdeasSection';
 import InfoSection from '../containers/Hosting/Info';
 import BannerSection from '../containers/Hosting/Banner';
 import ContactSection from '../containers/Hosting/Contact';
@@ -21,7 +21,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import BigIdeasSection from './BigIdeasSection';
+// import BigIdeasSection from './BigIdeasSection';
 
 
 export default () => {
@@ -42,8 +42,6 @@ export default () => {
 
             <BannerSection />
             <BigIdeasSection />
-            <FeatureSection />
-            <InfoSection />
             <Footer />
           </ContentWrapper>
         </ParallaxProvider>

@@ -13,24 +13,52 @@ import {
 // Feature Section Content
 export const FEATURES_DATA = [
   {
-    title: 'Domain Registration & Web Hosting',
+    title: 'Creativity',
     description:
-      'We have support team for 24/7 operation. They provide help and ongoing assistance at any time.',
-    icon: 'flaticon-trophy violate',
+      'Computing is a creative human activity that engenders innovation and promotes exploration.',
+    icon: 'flaticon-creative violate',
     animation: true,
   },
   {
-    title: 'Website Design & Development',
+    title: 'Abstraction',
     description:
-      'Transferring from another host? Our expert support team is standing by to transfer your site.',
-    icon: 'flaticon-startup yellow',
+      'Abstraction reduces information and detail to focus on concepts relevant to understanding and solving problems.',
+    icon: 'flaticon-trophy yellow',
     animation: true,
   },
   {
-    title: 'Dedicated Server & Cloud Hosting',
+    title: 'Data',
     description:
-      'LiteSpeed Web Server is a high-performance HTTP server and known for its high performance.',
-    icon: 'flaticon-creative green',
+      'Managing and interpreting massive amounts of data is foundational to our society and creates knowledge.',
+    icon: 'flaticon-atom green',
+    animation: true,
+  },
+  {
+    title: 'Algorithms',
+    description:
+      'Algorithms are tools for developing and expressing solutions to computational problems.',
+    icon: 'flaticon-ruler yellow',
+    animation: true,
+  },
+  {
+    title: 'Programming',
+    description:
+      'Programming is a creative process that enables problem solving, human expression, and creation of knowledge.',
+    icon: 'flaticon-briefing green',
+    animation: true,
+  },
+  {
+    title: 'Internet',
+    description:
+      'Digital devices, systems, and networks enable and foster computational approaches to solving problems.',
+    icon: 'flaticon-conversation violate',
+    animation: true,
+  },
+    {
+    title: 'Impact',
+    description:
+      'Computing enables innovation in other fields including science, social science, humanities, arts, and medicine.',
+    icon: 'flaticon-startup green',
     animation: true,
   },
 ];

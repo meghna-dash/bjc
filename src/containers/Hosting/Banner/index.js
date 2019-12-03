@@ -51,7 +51,7 @@ const BannerSection = ({
             />
             <Text
               {...description}
-              content="BJC is an introductory computer science curriculum bringing the seven big ideas in computing to students in new and innovative ways. "
+              content="BJC is an introductory computer science curriculum bringing the seven big ideas in computing to students in new and innovative ways. Designed in partnership with Auburn University, College Board, and the National Science Foundation."
             />
           </Box>
           

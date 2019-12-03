@@ -53,11 +53,7 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
                 drawerClose={true}
                 offset={-100}
               />
-              <Link href="#">
-                <a className="navbar_drawer_button">
-                  <Button {...button} title="BUY NOW" />
-                </a>
-              </Link>
+              
             </Drawer>
           </Box>
         </Box>

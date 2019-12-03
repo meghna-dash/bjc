@@ -7,7 +7,7 @@ import Container from 'common/src/components/UI/Container';
 import SectionWrapper from './service.style';
 import { SERVICE_ITEMS } from 'common/src/data/SaasClassic';
 
-const ServiceSection = ({
+const BigIdeasSection = ({
   secTitleWrapper,
   secText,
   secHeading,
@@ -52,7 +52,7 @@ const ServiceSection = ({
   );
 };
 
-ServiceSection.propTypes = {
+BigIdeasSection.propTypes = {
   secTitleWrapper: PropTypes.object,
   secText: PropTypes.object,
   secHeading: PropTypes.object,
@@ -62,7 +62,7 @@ ServiceSection.propTypes = {
   secDes: PropTypes.object,
 };
 
-ServiceSection.defaultProps = {
+BigIdeasSection.defaultProps = {
   secTitleWrapper: {
     mb: ['60px', '80px'],
   },
@@ -120,4 +120,4 @@ ServiceSection.defaultProps = {
   },
 };
 
-export default ServiceSection;
+export default BigIdeasSection;
