@@ -14,6 +14,7 @@ import ShapeTwo from '../../../assets/image/hosting/shape-2.svg';
 import ShapeThree from '../../../assets/image/hosting/shape-3.svg';
 import ShapeFour from '../../../assets/image/hosting/shape-4.svg';
 import ShapeFive from '../../../assets/image/hosting/shape-5.svg';
+import ModalVideo from 'react-modal-video'
 
 const FeatureSection = ({
   sectionWrapper,
