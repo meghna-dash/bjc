@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.123dba24.chunk.css",
+    "main.js": "/static/js/main.20a37bed.chunk.js",
+    "main.js.map": "/static/js/main.20a37bed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec7dcb17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec7dcb17.js.map",
+    "static/css/2.87178083.chunk.css": "/static/css/2.87178083.chunk.css",
+    "static/js/2.57b05011.chunk.js": "/static/js/2.57b05011.chunk.js",
+    "static/js/2.57b05011.chunk.js.map": "/static/js/2.57b05011.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.49d7c57ef9faee64126a764826d6f56a.js": "/precache-manifest.49d7c57ef9faee64126a764826d6f56a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.87178083.chunk.css.map": "/static/css/2.87178083.chunk.css.map",
+    "static/css/main.123dba24.chunk.css.map": "/static/css/main.123dba24.chunk.css.map",
+    "static/media/flaticon.css": "/static/media/Flaticon.bd6d1d55.woff2",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.0a26bcb8.jpg",
+    "static/media/footer-bg.png": "/static/media/footer-bg.61e61976.png",
+    "static/media/icon1.svg": "/static/media/icon1.3514e790.svg",
+    "static/media/icon2.svg": "/static/media/icon2.c3c53d38.svg",
+    "static/media/icon3.svg": "/static/media/icon3.dabd92f8.svg",
+    "static/media/icon4.svg": "/static/media/icon4.8575155f.svg",
+    "static/media/icon5.svg": "/static/media/icon5.e4c71731.svg",
+    "static/media/icon6.svg": "/static/media/icon6.7882ca3c.svg",
+    "static/media/info1.png": "/static/media/info1.7e070d1a.png",
+    "static/media/info2.png": "/static/media/info2.c77f01c4.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/logo.png": "/static/media/logo.6c1dce8f.png",
+    "static/media/shape-1.svg": "/static/media/shape-1.78ebb015.svg",
+    "static/media/shape-2.svg": "/static/media/shape-2.518952a2.svg",
+    "static/media/shape-3.svg": "/static/media/shape-3.686f6a5b.svg",
+    "static/media/shape-4.svg": "/static/media/shape-4.8274ad5d.svg",
+    "static/media/shape-5.svg": "/static/media/shape-5.fbf04fe8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7dcb17.js",
+    "static/css/2.87178083.chunk.css",
+    "static/js/2.57b05011.chunk.js",
+    "static/css/main.123dba24.chunk.css",
+    "static/js/main.20a37bed.chunk.js"
+  ]
+}
