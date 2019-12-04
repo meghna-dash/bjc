@@ -155,98 +155,54 @@ export const MENU_ITEMS = [
 
 export const FOOTER_WIDGET = [
   {
-    title: 'About Us',
+    title: 'BJC Project',
     menuItems: [
       {
         url: '#',
-        text: 'Support Center',
+        text: 'User Interface Final Project',
       },
       {
         url: '#',
-        text: 'Customer Support',
-      },
-      {
-        url: '#',
-        text: 'About Us',
-      },
-      {
-        url: '#',
-        text: 'Copyright',
-      },
-      {
-        url: '#',
-        text: 'Popular Campaign',
+        text: 'COMP 5620, Fall 2019',
       },
     ],
   },
   {
-    title: 'Our Information',
+    title: 'Dr. Cheryl Seals',
     menuItems: [
       {
         url: '#',
-        text: 'Return Policy',
+        text: 'Associate Professor',
       },
       {
         url: '#',
-        text: 'Privacy Policy',
-      },
-      {
-        url: '#',
-        text: 'Terms & Conditions',
-      },
-      {
-        url: '#',
-        text: 'Site Map',
-      },
-      {
-        url: '#',
-        text: 'Store Hours',
+        text: 'Auburn University',
       },
     ],
   },
   {
-    title: 'My Account',
+    title: 'Meghna Dash',
     menuItems: [
       {
         url: '#',
-        text: 'Press inquiries',
+        text: 'Brad Bayuga',
       },
       {
         url: '#',
-        text: 'Social media directories',
-      },
-      {
-        url: '#',
-        text: 'Images & B-roll',
-      },
-      {
-        url: '#',
-        text: 'Permissions',
-      },
-      {
-        url: '#',
-        text: 'Speaker requests',
+        text: 'Ian Brown',
       },
     ],
   },
   {
-    title: 'Policy',
+    title: '&',
     menuItems: [
       {
         url: '#',
-        text: 'Application security',
+        text: 'Phillip Jauregui',
       },
       {
         url: '#',
-        text: 'Software principles',
-      },
-      {
-        url: '#',
-        text: 'Unwanted software policy',
-      },
-      {
-        url: '#',
-        text: 'Responsible supply chain',
+        text: 'Kevin Wolbart',
       },
     ],
   },

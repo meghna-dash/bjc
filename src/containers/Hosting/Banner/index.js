@@ -42,7 +42,7 @@ const BannerSection = ({
                   {...discountText}
                   content="teaching students "
                 />
-                <Text {...discountAmount} content=" the big ideas" />
+                <Text {...discountAmount} content=" computer science" />
               </DiscountLabel>
             </DiscountWrapper>
             <Heading
