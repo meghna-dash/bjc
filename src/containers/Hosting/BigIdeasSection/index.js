@@ -16,6 +16,8 @@ import ShapeFour from '../../../assets/image/hosting/shape-4.svg';
 import ShapeFive from '../../../assets/image/hosting/shape-5.svg';
 import ModalVideo from 'react-modal-video'
 
+
+
 const FeatureSection = ({
   sectionWrapper,
   row,
@@ -88,11 +90,9 @@ const FeatureSection = ({
                       </>
                     }
                     button={
-                      <Link href="#">
-                        <a aria-label={`link-${index}`}>
+                      <a href={featureItem.video}>
                           <i className="flaticon-next" />
-                        </a>
-                      </Link>
+                      </a>
                     }
                   />
                 </Fade>

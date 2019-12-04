@@ -18,6 +18,7 @@ export const FEATURES_DATA = [
       'Computing is a creative human activity that engenders innovation and promotes exploration.',
     icon: 'flaticon-creative violate',
     animation: true,
+    video: 'https://youtu.be/CgCdsERkqrc',
   },
   {
     title: 'Abstraction',
@@ -25,6 +26,7 @@ export const FEATURES_DATA = [
       'Abstraction reduces information and detail to focus on concepts relevant to understanding and solving problems.',
     icon: 'flaticon-trophy yellow',
     animation: true,
+    video: 'https://youtu.be/0w_rla7GodI',
   },
   {
     title: 'Data',
@@ -32,6 +34,7 @@ export const FEATURES_DATA = [
       'Managing and interpreting massive amounts of data is foundational to our society and creates knowledge.',
     icon: 'flaticon-atom green',
     animation: true,
+    video: 'https://youtu.be/JHIWawjf-qU',
   },
   {
     title: 'Algorithms',
@@ -39,6 +42,7 @@ export const FEATURES_DATA = [
       'Algorithms are tools for developing and expressing solutions to computational problems.',
     icon: 'flaticon-ruler yellow',
     animation: true,
+    video: 'https://youtu.be/rL8X2mlNHPM',
   },
   {
     title: 'Programming',
@@ -46,6 +50,7 @@ export const FEATURES_DATA = [
       'Programming is a creative process that enables problem solving, human expression, and creation of knowledge.',
     icon: 'flaticon-briefing green',
     animation: true,
+    video: 'https://youtu.be/l26oaHV7D40',
   },
   {
     title: 'Internet',
@@ -53,6 +58,7 @@ export const FEATURES_DATA = [
       'Digital devices, systems, and networks enable and foster computational approaches to solving problems.',
     icon: 'flaticon-conversation violate',
     animation: true,
+    video: 'https://youtu.be/AEaKrq3SpW8',
   },
     {
     title: 'Impact',
@@ -60,6 +66,7 @@ export const FEATURES_DATA = [
       'Computing enables innovation in other fields including science, social science, humanities, arts, and medicine.',
     icon: 'flaticon-startup green',
     animation: true,
+    video: 'https://youtu.be/fmpVPZXBXWY',
   },
 ];
 
